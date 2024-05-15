@@ -1,4 +1,5 @@
-const backendDomain =  "http://localhost:8080"
+// const backendDomain =  "http://localhost:8080"
+const backendDomain =  "https://ecom-backend-rs6r.onrender.com"
 
 const SummaryApi = {
     signUP : {
